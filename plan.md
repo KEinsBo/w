@@ -1,12 +1,8 @@
 # Plan:
-- Testprojekt 1
-- Testprojekt 2
+- Testprojekt
 - Hauptprojekt
 
-## Testprojekt 1:
-Eine Checkbox, die bei allen gleich ist
-
-## Testprojekt 2:
+## Testprojekt:
 Ein Knopf, der wenn gedrückt ann alle anderen Benutzer ein Nachricht sendet
 
 ## Hauptprojekt:
@@ -31,3 +27,15 @@ und da steht, wer was macht
 - Singleplayer (gegen Bots)
 - Auch so Bots
 - Custom Rollen (extramode)
+ 
+ ### Rollen:
+- Dorfbewohner
+- Werwolf
+- Amor
+- Seher
+- hexe
+- jäger
+- dieb
+- bürgermeister
+- leibwächter
+- bauern
