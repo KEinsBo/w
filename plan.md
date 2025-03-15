@@ -1,8 +1,12 @@
 # Plan:
-- Testprojekt
+- Testprojekt 1
+- Testprojekt 2
 - Hauptprojekt
 
-## Testprojekt:
+## Testprojekt 1:
+Eine Checkbox, die bei allen gleich ist
+
+## Testprojekt 2:
 Ein Knopf, der wenn gedrückt ann alle anderen Benutzer ein Nachricht sendet
 
 ## Hauptprojekt:
