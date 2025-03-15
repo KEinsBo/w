@@ -9,11 +9,17 @@ Eine Checkbox, die bei allen gleich ist
 ## Testprojekt 2
 Ein Knopf, der wenn gedrückt ann alle anderen Benutzer ein Nachricht sendet
 
+### Ideen:
+eine .log Datei, die wird dann verändert (Sachen hinzugefügt)
+
+### Ablauf:
+User presst Button -> Es wird eine neue Line zu der .log Datei hinzugefügt -> die anderen Instanzen lesen das und senden eine Nachricht
+
 ## Hauptprojekt:
 Werwolf Klon
 
 - Benutzernamen
-- 3 lobbys
+- 3 Lobbys
 
 ### Ablauf des Spiels:
 1. Man wählt den Benutzernamen
