@@ -1,4 +1,5 @@
 # Plan:
+[Webseite](https://keinsbo.github.io/w)
 - Testprojekt 1
 - Testprojekt 2
 - Hauptprojekt
@@ -47,3 +48,6 @@ und da steht, wer was macht
 - Jäger
 - Dieb
 - Bürgermeister
+
+### Alternative:
+- Ein Spiel, wo alle auf einem Handy spielen
