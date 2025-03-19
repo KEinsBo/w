@@ -50,4 +50,4 @@ und da steht, wer was macht
 - Bürgermeister
 
 ### Alternative:
-- Ein Spiel, wo alle auf einem Handy spielen
+- Ein Spiel, wo alle auf einem Gerät spielen
